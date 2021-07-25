@@ -1,0 +1,2 @@
+class ServiceExit(Exception):
+    pass
