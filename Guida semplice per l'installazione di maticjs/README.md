@@ -2,12 +2,6 @@
 
 ## How to use
 
-### Clone the repo
-
-```bash
-git clone git@github.com:ptsayli/simple-maticjs-setup.git
-```
-
 ### Install and run:
 
 ```bash
