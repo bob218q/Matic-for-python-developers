@@ -1,0 +1,20 @@
+{
+  "name": "maticjs-test",
+  "version": "1.0.0",
+  "description": "Example code to interact with Matic Network in node environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matic",
+    "js",
+    "node"
+  ],
+  "author": "Sayli Patil <ptsayli@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "maticjs": "1.0.0-beta.12",
+    "web3": "1.0.0-beta.34"
+  }
+}
